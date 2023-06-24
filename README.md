@@ -27,6 +27,10 @@
 
 <br/>
 
+## Demo
+
+[Demo video](https://youtu.be/zDJ3vSZpoSA)
+
 ## Install & run
 
 [Client](client/README.md)
